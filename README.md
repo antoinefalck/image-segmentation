@@ -1,4 +1,4 @@
-# image-segmentation
+Image Segmentation
 
 The algorithms I implemented in *MATLAB*, for the segmentation using the Markov chain approach. The final step is to segment a picture on which we added noise.
 
